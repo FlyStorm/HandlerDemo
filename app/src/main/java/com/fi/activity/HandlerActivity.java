@@ -11,7 +11,7 @@ import android.widget.TextView;
 /**
  * 创建者     yangyanfei
  * 创建时间   2017/8/26 0026 15:18
- * 作用	      ${TODO}
+ * 作用	      异步消息处理的使用方法
  * <p/>
  * 版本       $$Rev$$
  * 更新者     $$Author$$

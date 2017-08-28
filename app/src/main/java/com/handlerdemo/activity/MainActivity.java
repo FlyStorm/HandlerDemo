@@ -1,4 +1,4 @@
-package com.fi.activity;
+package com.handlerdemo.activity;
 
 import android.app.Activity;
 import android.content.Intent;
